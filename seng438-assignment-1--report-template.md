@@ -33,7 +33,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-The purpose of this lab was to develop an smooth introduction to hands-on Software application testing. Through different testing methods, our group commprhensively 
+The purpose of this lab was to develop a smooth introduction to hands-on Software application testing. Through different testing methods, our group comprehensively tested a simple ATM, given a lengthy requirements list. In pairs, and as a team, we worked through exploratory, manual scripted, and regression testing to find a number of bugs in two versions of the application. This lab also introduced the group into bug tracking software Backlog. In different versions of the program, bugs found in either app version were comprehensively recorded for later reference. Though each member of the group had a strong foundation in developing and testing their own programs and assignments, following a scripted, and regression testing was very new to us. In the past, much of our testing has focused on a high-level exploratory testing. Furthermore, the bug tracking software was new to the group, but each individual was able to learn the software with relative ease. 
 
 # High-level description of the exploratory testing plan
 
@@ -52,7 +52,7 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+In the pair testing stage, our group was divided into pairs of two. In the exploratory testing, one partner recorded bugs into Backlog, while the other executed the testing plan on the ATM. Each pair identified a number of bugs, both common and unique to the other pair. Bugs were then compared in Backlog, and duplicates were removed. The team completed the regression testing on V1.1 of the program together, taking turns testing the ATM, and entering bug details into the log. This approach led to each member getting a chance to experience the various steps involved in testing, and to become familiar with the software. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
