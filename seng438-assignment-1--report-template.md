@@ -6,8 +6,9 @@
 |-----------------|---|
 | Student Names:  |   |
 | Graydon Benson  |   |
-|                 |   |
-|                 |   |
+| Eli St. James   |   |
+| Seher Dawa      |   |
+| Maxwell Botham  |   |
 
 **Table of Contents**
 
@@ -32,8 +33,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+The purpose of this lab was to develop an smooth introduction to hands-on Software application testing. Through different testing methods, our group commprhensively 
 
 # High-level description of the exploratory testing plan
 
