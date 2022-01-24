@@ -56,8 +56,9 @@ In the pair testing stage, our group was divided into pairs of two. In the explo
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+During the testing of this interesting java ATM application, we ran innto a feww challenges along the way. One of those challenges was during the regression tests, when testing the ATM version 1.1, it was somtimes hard to remember what bugs existed in the ATM version 1.0, without having backlog open to look at. This just goes to show how important it is to record all the earlier bugs found, so you wont have to remember all of them and possibly miss some. Another challenge we encounterd as a group was when we split up into pairs for manual testing, sometimes we would report duplicate bugs.
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+Tthe assignment was interesting, interactive, and at times challenging. It really gave us a taste of what its like to test a program. In terms of the instructions for the assignment. we believe, at some parts, the instructions were unclear, Mostly regarding splitting up into pairs.  It was hard to know how to merge our work, or if we needed to make two defect reports etc.
+Overall Good Assignment.
