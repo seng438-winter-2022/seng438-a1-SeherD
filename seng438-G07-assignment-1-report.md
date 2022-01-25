@@ -49,7 +49,7 @@ In conclusion, for this assignment, Exploratory testing was useful for unearthin
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Using backlog to log defects, and ultimately create our defect reports, was a very interesting part of this lab. Because we executed the exploratory and manual-scripted testing phases in pairs, we were able to investigate differences between our found defects. For the most part, the defects we logged were the same. However, in the exploratory phase, each pair found a couple of defects that the other pair hadn't noticed. This made it clear that, to catch all defects, a robust testing plan must be made to ensure all systems are operating properly. As a group, we agreed that backlog was a good system for tracking bugs/defects. One of the features we made use of was commenting. We used it to share which stages of testing we had found a particular defect in, as well as to mark duplicates. The versioning portion of the lab was interesting as well, as we were able to see how, as real software employees, we would track bugs in our system and how their status would change between versions. Overall, backlog was an immensely useful tool that cleanly produced our two defect reports, including comments, versions, status, and all. 
 
 # How the pair testing was managed and team work/effort was divided 
 
