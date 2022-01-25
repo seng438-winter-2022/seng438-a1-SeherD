@@ -4,11 +4,10 @@
 
 | Group \#:       | 7 |
 |-----------------|---|
-| Student Names:  |   |
-| Graydon Benson  |   |
-| Eli St. James   |   |
-| Seher Dawar      |   |
-| Maxwell Botham  |   |
+| Student Names:  | Graydon Benson  |
+|                 | Eli St. James   |
+|                 | Seher Dawar     |
+|                 | Maxwell Botham  |
 
 **Table of Contents**
 
