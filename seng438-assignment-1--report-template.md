@@ -7,7 +7,7 @@
 | Student Names:  |   |
 | Graydon Benson  |   |
 | Eli St. James   |   |
-| Seher Dawa      |   |
+| Seher Dawar      |   |
 | Maxwell Botham  |   |
 
 **Table of Contents**
